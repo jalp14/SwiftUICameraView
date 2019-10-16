@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SwiftUICameraView
 //
-//  Created by Dev on 16/10/2019.
+//  Created by Jalp on 16/10/2019.
 //  Copyright © 2019 jdc0rp. All rights reserved.
 //
 
